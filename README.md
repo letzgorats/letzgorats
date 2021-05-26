@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=lets%20go%20rats&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=lets%20go%20rats&fontSize=90)
 
 
 <div align='center'>
@@ -30,25 +30,21 @@
 </div>
 <br>
 
-<div align='center'>
-	
-	
-	![letzgorats's GitHub stats](https://github-readme-stats.vercel.app/api?username=letzgorats&show_icons=true&theme=radical)
-</div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fletzgorats&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![letzgorats's GitHub stats](https://github-readme-stats.vercel.app/api?username=letzgorats&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letzgorats&layout=compact)](https://github.com/letzgorats/github-readme-stats&theme=dracula)
+
+
 	
 <div align=center>
  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fletzgorats&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 	
 </div>
 	
 	
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letzgorats&layout=compact)](https://github.com/letzgorats/github-readme-stats)
 
 
 <!--
