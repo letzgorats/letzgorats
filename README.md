@@ -10,7 +10,7 @@
 
 <hr>
 <div align='center'>
-🛠 Tech Stack 🛠
+<h3>🛠 Tech Stack 🛠</h3>
 </div>						
 
 <div align='center'>
@@ -30,10 +30,13 @@
 </div>
 <br>
 
-
-![letzgorats's GitHub stats](https://github-readme-stats.vercel.app/api?username=letzgorats&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letzgorats&layout=compact)](https://github.com/letzgorats/github-readme-stats&theme=dracula)
-
+## My GitHub Stats 📊
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=letzgorats&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letzgorats" />
+</a>
 
 	
 <div align=center>
