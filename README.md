@@ -8,10 +8,20 @@
 	<b>Life is like a "Let's go , Rats!"</b> <br>
 </div>
 
+<br>
+
+<div align='center'>
+<img src="https://img.shields.io/badge/a01030659322@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jeong Yeob (Owen) Kim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/letzgorats-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+</div>
+
 <hr>
 <div align='center'>
 <h3>🛠 Tech Stack 🛠</h3>
 </div>						
+
+<!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> -->
 
 <div align='center'>
 	<br>
@@ -23,10 +33,17 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-	<br>
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+	<br>
 	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+	<br>
+ 	<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon Aws&logoColor=white"/>	
+	<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+ 	
+
 </div>
 <br>
 
