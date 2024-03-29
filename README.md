@@ -47,6 +47,13 @@
 </div>
 <br>
 
+
+## My GitHub Trophy 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=letzgorats&title=MultiLanguages,Commits,Repositories,Experience,Followers&margin-w=15)](https://github.com/letzgorats/github-profile-trophy)
+
+
+
+
 ## My GitHub Stats 📊
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/letzgorats?theme=auto&font=baloo&extension=null)
