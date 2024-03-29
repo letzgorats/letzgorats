@@ -53,8 +53,9 @@
 
 
 ## My GitHub Trophy 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=letzgorats&title=MultiLanguages,Commits,Repositories,Experience,Followers&margin-w=15)](https://github.com/letzgorats/github-profile-trophy)
-
+<a href="https://github.com/letzgorats">
+	<img align="center" src="https://github-profile-trophy.vercel.app/?username=letzgorats&title=MultiLanguages,Commits,Repositories,Experience,Followers&margin-w=15"/>
+</a>
 
 
 ## My GitHub Stats 📊
@@ -66,13 +67,6 @@
 		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hockey9322&theme=warm"/>
 	</a> 
 </p>
-
-<div align="center" style="text-align:center">
-
- 
-
-</div>
-
 
 
 <h3 align="center">💡 My Most Used Languages & Git Stats 💡</h3>
@@ -86,16 +80,12 @@
 </p>
 
 
-
-
 <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fletzgorats&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
 	
-	
-
 
 
 
